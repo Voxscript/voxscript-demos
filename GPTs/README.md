@@ -8,7 +8,7 @@ This guide will walk you through the steps to create a GPT integrated with Voxsc
    - First, obtain your API key by visiting [Voxscript API Registration](https://voxscript-api.awt.icu/).
 
 2. **Create a New GPT**
-   - Navigate to the GPT creation section in your Voxscript account.
+   - Navigate to the GPT creation section in your OpenAI account.
 
 3. **Add Actions**
    - Click on 'Add Actions' in the GPT setup.
