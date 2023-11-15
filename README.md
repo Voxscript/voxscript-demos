@@ -39,9 +39,8 @@ curl -X 'GET' \
   'https://voxscript.awt.icu/GetWebsiteContent?websiteURL=google.com&getLinks=false' \
   -H 'accept: */*' \
   -H 'Authorization: Bearer your-token-here'
+```
   
-## Contact Us
-
 ## Contact Us
 
 We're always looking to connect with our users. Join us and become part of our community!
