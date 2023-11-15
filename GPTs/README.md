@@ -31,3 +31,11 @@ This guide will walk you through the steps to create a GPT integrated with Voxsc
    - If you encounter any issues or have questions, feel free to post them here for support.
 
 Happy scripting with Voxscript! 🙂
+
+## Contact Us
+
+We're always looking to connect with our users. Join us and become part of our community!
+
+- **Discord:** Join us on [Discord](https://discord.gg/FZDWbJdQw2) for live discussions and support.
+- **Subreddit:** Visit our [Subreddit](https://www.reddit.com/r/voxscript/) to engage with the community, share ideas, and get updates.
+- **E-Mail** voxscript [at] allwiretech.com
