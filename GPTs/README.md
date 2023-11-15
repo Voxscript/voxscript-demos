@@ -12,7 +12,8 @@ This guide will walk you through the steps to create a GPT integrated with Voxsc
 
 3. **Add Actions**
    - Click on 'Add Actions' in the GPT setup.
-   - Paste the OpenAI Schema from this repoistory into definition field. Ensure that all the actions you require are listed.
+   - Paste the OpenAI Schema (Voxscript-GPT-API-Definition.json) from this repoistory into definition field. Ensure that all the actions you require are listed.
+   - At the moment, this will not automatically update. You may have to update it from this repo from time to time.
 
 4. **Edit Authentication**
    - Go to 'Edit Authentication'.
